@@ -5,5 +5,5 @@ Este repositório tem como finalidade armazenar as atividades realizadas na disc
 DCA1202 - Programação Avançada - UFRN - 2022.2 </BR>
 Integrantes: </BR>
 
-DIEGO OLIVEIRA DA SILVA
+DIEGO OLIVEIRA DA SILVA </BR>
 LAURA DE FATIMA MARCELINO
