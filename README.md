@@ -2,8 +2,8 @@
 
 Este repositório tem como finalidade armazenar as atividades realizadas na disciplina de programação avançada - DCA1202 da UFRN.
 
-DCA1202 - Programação Avançada - UFRN - 2022.2
-Integrantes:
+DCA1202 - Programação Avançada - UFRN - 2022.2 </BR>
+Integrantes: </BR>
 
 DIEGO OLIVEIRA DA SILVA
 LAURA DE FATIMA MARCELINO
