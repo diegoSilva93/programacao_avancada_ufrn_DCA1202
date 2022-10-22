@@ -12,6 +12,21 @@ O projeto consiste em dois módulos: uma classe em C++ destinada à interpretaç
 
 Os sistemas de escultura tridimensional prevêem alguns tipos de formas geométricas simples que poderão ser usadas pelo usuário para pintar e deverão ser implementadas no projeto.
 
+# Como utilizar
+Para utilizar o projeto, basta clonar o repositório em um diretório de sua preferência com o seguinte comando:
+git clone https://github.com/juniorteixeira1805/sculptor-3D.git
+
+* Abrir o terminal;
+* Ir até a pasta do projeto;
+
+Na raiz da pasta executar o comando :
+g++ -o main main.cpp
+
+# Tecnologias utilizadas
+* C ++
+* Meshlab
+* doxygen
+
 DCA1202 - Programação Avançada - UFRN - 2022.2 </BR>
 Integrantes: </BR>
 
