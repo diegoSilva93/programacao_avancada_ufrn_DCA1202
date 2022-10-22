@@ -14,7 +14,7 @@ Os sistemas de escultura tridimensional prevêem alguns tipos de formas geométr
 
 # Como utilizar
 Para utilizar o projeto, basta clonar o repositório em um diretório de sua preferência com o seguinte comando:
-git clone https://github.com/juniorteixeira1805/sculptor-3D.git
+git clone https://github.com/diegoSilva93/programacao_avancada_ufrn_DCA1202.git
 
 * Abrir o terminal;
 * Ir até a pasta do projeto;
